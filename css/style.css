@@ -61,8 +61,8 @@
 #blog{
     width: 100px;  
     height: 50px;
-    top: 55px;
-    left: 35%;
+    top: 30px;
+    left: 55%;
     color: white;
     display: inline-block;
     background: linear-gradient(90deg, rgba(21,63,154,1) 0%, rgba(17,17,241,1) 17%, rgba(0,255,184,1) 100%);
@@ -76,8 +76,8 @@
 #contact{
     width: 100px;  
     height: 50px;
-    top: 70px;
-    left: 45%;
+    top: 30px;
+    left: 70%;
     color: white;
     display: inline-block;
     background: linear-gradient(90deg, rgba(21,63,154,1) 0%, rgba(17,17,241,1) 17%, rgba(0,255,184,1) 100%);

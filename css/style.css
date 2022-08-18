@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#background {
+    background-color: rgb(38, 125, 223);
+    width: 100%;
+    height: 100px;
+}
+.home {
+    font-size: 100px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#home {
+    width: 100px;
+    height: 50px;
+    top: 30px;
+    left: 5%;
+    color: white;
+    display: inline-block;
+    background: linear-gradient(90deg, rgba(21,63,154,1) 0%, rgba(17,17,241,1) 17%, rgba(0,255,184,1) 100%);
+    text-align: center;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    font-size: 20px;
+    position: absolute;
+    padding-top: 15px;
+}
+#about{
+    width: 100px;  
+    height: 50px;
+    top: 30px;
+    left: 15%;
+    color: white;
+    display: inline-block;
+    background: linear-gradient(90deg, rgba(21,63,154,1) 0%, rgba(17,17,241,1) 17%, rgba(0,255,184,1) 100%);
+    text-align: center;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    font-size: 20px;
+    position: absolute;
+    padding-top: 15px;
+}
+#services{
+    width: 100px;  
+    height: 50px;
+    top: 30px;
+    left: 25%;
+    color: white;
+    display: inline-block;
+    background: linear-gradient(90deg, rgba(21,63,154,1) 0%, rgba(17,17,241,1) 17%, rgba(0,255,184,1) 100%);
+    text-align: center;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    font-size: 20px;
+    position: absolute;
+    padding-top: 15px;
+}
+#blog{
+    width: 100px;  
+    height: 50px;
+    top: 30px;
+    left: 35%;
+    color: white;
+    display: inline-block;
+    background: linear-gradient(90deg, rgba(21,63,154,1) 0%, rgba(17,17,241,1) 17%, rgba(0,255,184,1) 100%);
+    text-align: center;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    font-size: 20px;
+    position: absolute;
+    padding-top: 15px;
+}
+#contact{
+    width: 100px;  
+    height: 50px;
+    top: 30px;
+    left: 45%;
+    color: white;
+    display: inline-block;
+    background: linear-gradient(90deg, rgba(21,63,154,1) 0%, rgba(17,17,241,1) 17%, rgba(0,255,184,1) 100%);
+    text-align: center;
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    font-size: 20px;
+    position: absolute;
+    padding-top: 15px;
+}
